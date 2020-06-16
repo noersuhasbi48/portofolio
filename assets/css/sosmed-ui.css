@@ -1,0 +1,45 @@
+#mySidenav a {
+  position: fixed;
+  left: -115px;
+  float: left;
+  transition: 0.4s;
+  padding: 10px;
+  width: 160px;
+  text-decoration: left;
+  font-size: 15px;
+  color: white;
+  border-radius: 0px 50px 50px 0px;
+  
+}
+#mySidenav a:hover {
+  left: 0;
+}
+
+#mySidenav a i {
+  margin-left: 0px;
+  background-color: transparent;
+  height:30px;
+  width:30px;
+  color: white;
+  text-align: center;
+  line-height: 30px;
+  border-radius: 50%;
+  float: right;
+
+}
+
+
+
+#card {
+  top: 100px;
+  background: -moz-linear-gradient(90deg, #700877 0%, #ff2759 100%, #ff2759 100%);
+  background: -webkit-linear-gradient(90deg, #700877 0%, #ff2759 100%, #ff2759 100%);
+  background: linear-gradient(90deg, #700877 0%, #ff2759 100%, #ff2759 100%);
+}
+.portfolio{
+	background: -moz-linear-gradient(90deg, #700877 0%, #ff2759 100%, #ff2759 100%);
+  background: -webkit-linear-gradient(90deg, #700877 0%, #ff2759 100%, #ff2759 100%);
+  background: linear-gradient(90deg, #700877 0%, #ff2759 100%, #ff2759 100%);
+}
+}
+	
